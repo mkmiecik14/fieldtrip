@@ -1,0 +1,12 @@
+[Common Infos]
+Computer=M07403618
+User=irisim
+
+[History File]
+DataReader={36E2964E-25A7-1BD2-855E-00A005A0A376}
+HeaderFilename=G:\EEG_Data\subj2.vhdr
+HistoryNode1=subj2/Raw Data,{00000000-0000-0000-0000-000000000000}
+RawFilename=G:\EEG_Data\subj2.eeg
+SequenceNumber=1
+Sequences=1
+
